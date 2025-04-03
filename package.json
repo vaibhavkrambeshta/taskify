@@ -1,0 +1,20 @@
+{
+  "name": "taskify",
+  "version": "1.0.0",
+  "description": "task management application designed to help users create, manage, and track their daily tasks",
+  "license": "ISC",
+  "author": "vaibhav",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.6.1",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1",
+    "react-redux": "^9.2.0"
+  }
+}
